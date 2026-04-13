@@ -13,13 +13,13 @@ This project analyzes business performance across different states to provide ac
 -  Revenue analysis by state
 -  Units sold tracking
 -  Marketing spend vs ROI analysis
-- Customer segmentation insights
+-  Customer segmentation insights
 -  State-wise performance visualization (Map-based)
 -  Interactive dashboard for better insights
 
 ---
 
-## Dashboard Insights
+##  Dashboard Insights
 - Total Revenue: **535M**
 - Units Sold: **512K**
 - Marketing Spend: **55M**
@@ -34,12 +34,12 @@ This project analyzes business performance across different states to provide ac
 
 ---
 
-##  Dashboard Preview
-![Dashboard Preview](screenshots/dashboard2.png)
+## = Dashboard Preview
+![Dashboard Preview](dashboard.png)
 
 ---
 
-## Key Learnings
+##  Key Learnings
 - Understanding business performance metrics
 - Data visualization techniques
 - Importance of data-driven decision making
@@ -64,7 +64,7 @@ This dashboard can be used by:
 
 ---
 
-## Contributing
+##  Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ---
@@ -74,5 +74,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## Author
-**Ritika Kundu**
+##  Author
+**Ritika**
