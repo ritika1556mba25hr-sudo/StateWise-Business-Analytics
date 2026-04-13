@@ -1,0 +1,11 @@
+state,revenue,predicted_revenue,marketing_spend,units_sold,inventory_available,marketing_roi,inventory_turnover_proxy,High,Low,decision_recommendation
+Delhi,56005960,55943706.87487831,5260526,52406,105059,9.646456266920836,0.4988244700596807,15,181,Scale winning campaigns | Stabilize performance | Reduce excess inventory
+Gujarat,45447072,45409882.01162162,5341220,50489,98160,7.508743695260633,0.5143541157294214,21,170,Scale winning campaigns | Stabilize performance | Maintain stock flow
+Haryana,60583756,60584429.653069735,5553441,56527,108103,9.909228350494764,0.5228994569993433,23,185,Scale winning campaigns | Prepare for growth | Maintain stock flow
+Karnataka,49476499,49482436.99083381,5522981,48269,103341,7.958296072356577,0.46708470016740694,13,192,Scale winning campaigns | Prepare for growth | Reduce excess inventory
+Maharashtra,59345633,59308072.328014545,6003829,57685,115889,8.884630791449924,0.49776078834056725,32,192,Scale winning campaigns | Stabilize performance | Reduce excess inventory
+Punjab,54561116,54491133.30137667,5455021,48561,99291,9.001999259031267,0.4890775598996888,17,177,Scale winning campaigns | Stabilize performance | Reduce excess inventory
+Rajasthan,53734222,53798659.701685,5575066,50894,108470,8.638311367076193,0.46919885682677237,20,180,Scale winning campaigns | Prepare for growth | Reduce excess inventory
+Tamil Nadu,49223324,49198570.668394186,4935192,44488,98087,8.973943060371308,0.4535565365440884,18,163,Scale winning campaigns | Stabilize performance | Reduce excess inventory
+Uttar Pradesh,53691752,53631435.791496135,5848719,52975,111269,8.180087468726057,0.4760984640825387,34,174,Scale winning campaigns | Stabilize performance | Reduce excess inventory
+West Bengal,53382404,53310478.39060081,5381785,49854,101335,8.919088926815174,0.491972171510337,22,171,Scale winning campaigns | Stabilize performance | Reduce excess inventory
